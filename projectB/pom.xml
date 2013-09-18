@@ -12,9 +12,9 @@
     <module>projectB1</module>
   </modules>
   <scm>
-    <connection>scm:svn:http://rakshit1868.nagarro.local/svn/SVN/trunk/multirelease/projectB</connection>
-    <developerConnection>scm:svn:http://rakshit1868.nagarro.local/svn/SVN/trunk/multirelease/projectB</developerConnection>
-    <url>scm:svn:http://rakshit1868.nagarro.local/svn/SVN/trunk/multirelease/projectB</url>
+    <connection>scm:git:https://github.com/rakshit-jain/multirelease/projectB</connection>
+    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/projectB</developerConnection>
+    <url>scm:git:https://github.com/rakshit-jain/multirelease/projectB</url>
   </scm>
   <distributionManagement>
     <repository>
