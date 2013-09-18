@@ -15,9 +15,9 @@
     <module>projectA2</module>
   </modules>
   <scm>
-    <connection>scm:svn:http://rakshit1868.nagarro.local/svn/SVN/trunk/multirelease/projectA</connection>
-    <developerConnection>scm:svn:http://rakshit1868.nagarro.local/svn/SVN/trunk/multirelease/projectA</developerConnection>
-    <url>scm:svn:http://rakshit1868.nagarro.local/svn/SVN/trunk/multirelease/projectA</url>
+    <connection>scm:git:https://github.com/rakshit-jain/multirelease/projectA</connection>
+    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/projectA</developerConnection>
+    <url>scm:git:https://github.com/rakshit-jain/multirelease/projectA</url>
   </scm>
   <distributionManagement>
     <repository>
