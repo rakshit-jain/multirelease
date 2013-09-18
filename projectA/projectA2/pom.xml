@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.codehaus.openxma.mojo</groupId>
     <artifactId>projectA</artifactId>
-    <version>1.7</version>
+    <version>1.7-SNAPSHOT</version>
   </parent>
   <groupId>org.codehaus.openxma.mojo</groupId>
   <artifactId>projectA2</artifactId>
