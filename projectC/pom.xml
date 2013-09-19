@@ -8,9 +8,9 @@
   <name>projectC</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <connection>scm:git:https://github.com/rakshit-jain/multirelease/projectC</connection>
-    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/projectC</developerConnection>
-    <url>scm:git:https://github.com/rakshit-jain/multirelease/projectC</url>
+    <connection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectC</connection>
+    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectC</developerConnection>
+    <url>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectC</url>
   </scm>
   <distributionManagement>
     <repository>

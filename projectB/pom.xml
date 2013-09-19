@@ -12,9 +12,9 @@
     <module>projectB1</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/rakshit-jain/multirelease/projectB</connection>
-    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/projectB</developerConnection>
-    <url>scm:git:https://github.com/rakshit-jain/multirelease/projectB</url>
+    <connection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectB</connection>
+    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectB</developerConnection>
+    <url>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectB</url>
   </scm>
   <distributionManagement>
     <repository>
