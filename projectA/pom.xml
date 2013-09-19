@@ -16,9 +16,9 @@
   </modules>
   <scm>
 
-    <connection>scm:git:https://github.com/rakshit-jain/multirelease/projectA</connection>
-    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/projectA</developerConnection>
-    <url>scm:git:https://github.com/rakshit-jain/multirelease/projectA</url>
+    <connection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectA</connection>
+    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectA</developerConnection>
+    <url>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectA</url>
    </scm>
   <distributionManagement>
     <repository>
