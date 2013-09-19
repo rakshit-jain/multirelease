@@ -15,17 +15,11 @@
     <module>projectA2</module>
   </modules>
   <scm>
-<<<<<<< HEAD
+
     <connection>scm:git:https://github.com/rakshit-jain/multirelease/projectA</connection>
     <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/projectA</developerConnection>
     <url>scm:git:https://github.com/rakshit-jain/multirelease/projectA</url>
-    <tag>projectA-1.7</tag>
-=======
-    <connection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectA</connection>
-    <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectA</developerConnection>
-    <url>scm:git:https://github.com/rakshit-jain/multirelease/tree/master/projectA</url>
->>>>>>> 87ccaeecc7a62ece6234a918c1e35669a0cde06f
-  </scm>
+   </scm>
   <distributionManagement>
     <repository>
       <id>plugin</id>
