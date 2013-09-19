@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.codehaus.openxma.mojo</groupId>
   <artifactId>projectA</artifactId>
-  <version>1.7-SNAPSHOT</version>
+  <version>1.7</version>
   <name>projectA</name>
   <url>http://maven.apache.org</url>
   <packaging>pom</packaging>
@@ -19,7 +19,8 @@
     <connection>scm:git:https://github.com/rakshit-jain/multirelease</connection>
     <developerConnection>scm:git:https://github.com/rakshit-jain/multirelease</developerConnection>
     <url>scm:git:https://github.com/rakshit-jain/multirelease</url>
-   </scm>
+     <tag>projectA-1.7</tag>
+  </scm>
   <distributionManagement>
     <repository>
       <id>plugin</id>
