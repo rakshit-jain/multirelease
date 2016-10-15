@@ -29,7 +29,7 @@
         <inherited>false</inherited>
         <configuration>
         	<username>rakshit.jain</username>
-       		<password>password@3</password>
+       		<password>newPassword</password>
        		<org.codehaus.openxma.mojo.projectA.scmCommentPrefix>test</org.codehaus.openxma.mojo.projectA.scmCommentPrefix>
         </configuration>
       </plugin>
